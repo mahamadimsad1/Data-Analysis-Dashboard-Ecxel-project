@@ -31,3 +31,4 @@ Reduced manual data entry time by 80%
 Provided visual insights into hotel performance metrics
 
 Helped identify peak booking periods and occupancy trends
+https://github.com/mahamadimsad1/Data-Analysis-Dashboard-Ecxel-project/tree/main
